@@ -5,7 +5,7 @@ Um utilitário simples e eficiente escrito em Lua para automatizar a limpeza de 
 ## 🚀 Como utilizar
 
 ### 1. Preparação
-Guarde o código fornecido num ficheiro chamado `cleaner.lua` no diretório da sua preferência.
+Guarde o código fornecido num ficheiro chamado `main.lua` no diretório da sua preferência.
 
 ### 2. Execução
 Abra o seu terminal (CMD, PowerShell, Bash ou Zsh) e navegue até à pasta onde guardou o ficheiro.
